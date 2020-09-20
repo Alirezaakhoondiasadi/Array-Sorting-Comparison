@@ -1,5 +1,4 @@
-/*
-Created by Visual studio c++ 2019.
+                      Created by Visual studio c++ 2019.
 
 This program(written in c) compares the two common sorting algorithms.Bubble sort and quick sort.
 Bubble sort requires no extra memory and replaces the array in place however the time complexity is O(n2).
@@ -9,4 +8,3 @@ This extra memory is equal to size of the partitioning in quick sort which is us
 In Embedded systems for large arrays Quicksort is more efficient because it is fasterand extra memory that is needed from the stack is not growing quadratically or even linearly.
 
 There are other sorting algorithms(e.g.merging sort, or count base) which also can be faster than quick sort but since they are not memory efficient I believe they are not good choice for Embedded systems.
-*/
